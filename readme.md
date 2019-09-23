@@ -20,10 +20,18 @@ Note:- I have used enough data to fullfill all the requirements of the use case.
 
 These are links for the dashboard published to the online POWER BI account:
 
-Dashboard 1: https://app.powerbi.com/groups/me/dashboards/733550fe-92e1-4532-93ce-88e82426e3fc?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+**Dashboard 1:**
+> https://app.powerbi.com/groups/me/dashboards/733550fe-92e1-4532-93ce-88e82426e3fc?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+![](img/d1.png)
 
-Dashboard 2: https://app.powerbi.com/groups/me/dashboards/cf9e9620-e2ae-4ecd-80d8-eb6ed3af22cd?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+**Dashboard 2:**
+> https://app.powerbi.com/groups/me/dashboards/cf9e9620-e2ae-4ecd-80d8-eb6ed3af22cd?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+![](img/d2.png)
 
-Dashboard 3: https://app.powerbi.com/groups/me/dashboards/2e74a71f-c403-4061-82df-7a87bc9b6328?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+**Dashboard 3:**
+> https://app.powerbi.com/groups/me/dashboards/2e74a71f-c403-4061-82df-7a87bc9b6328?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+![](img/d3.png)
 
-Dashboard 4: https://app.powerbi.com/groups/me/dashboards/026110ea-c9e7-4dea-949f-46f8f16e41db?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+**Dashboard 4:**
+https://app.powerbi.com/groups/me/dashboards/026110ea-c9e7-4dea-949f-46f8f16e41db?ctid=3991fb9f-6d75-4ea7-ab4b-ced35da8d944
+![](img/d4.png)
